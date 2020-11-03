@@ -6,17 +6,7 @@ const Index = () => {
     <div>
       <h1>Palpite Box</h1>
       <div>
-        <Link href='/sobre'>
-          <a>Sobre</a>
-        </Link>
 
-        <Link href='/contato'>
-          <a>Contato</a>
-        </Link>
-
-        <Link href='/pesquisa'>
-          <a>Pesquisa</a>
-        </Link>
       </div>
     </div>
   )
